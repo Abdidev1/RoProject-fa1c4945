@@ -8,3 +8,10 @@ to contirbute to this project pls leave a forum on apex realms studios community
 
 Youtube Demo - Link : https://youtu.be/vVAHNYnw2Kc
 Play the game here : https://www.roblox.com/games/80536598372412/A-House
+
+
+Technolgoies Used : Roblox Studio , Luau
+
+Inspiration : so i had nothing to build and i was playing doors on roblox i said lets start working on making a virtual house game! so yeah doors is the inspiration of this game!
+
+Reason For Making The Project : To Get More Hackatime hours track and add a new game to my portfolio
