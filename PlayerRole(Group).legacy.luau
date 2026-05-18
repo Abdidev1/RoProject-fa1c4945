@@ -4,7 +4,7 @@ local BadgeService = game:GetService("BadgeService")
 -- The ID of your Roblox group
 local GROUP_ID = 36084878 
 
--- A dictionary to map group rank IDs to badge IDs
+-- A dictionary to map group rank IDs to badge ID's
 -- You can find your group's rank IDs by going to your group's "Configure" page, then "Roles"
 -- The number next to each role name is its rank ID.
 -- Replace the placeholder numbers with your actual Rank IDs and Badge IDs.
